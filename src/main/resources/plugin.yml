@@ -1,0 +1,8 @@
+name: EasyAnnouncement
+version: '${project.version}'
+main: love.dodo939.easyannouncement.EasyAnnouncement
+api-version: '1.20'
+commands:
+  easyannouncement:
+    aliases:
+      - ea
