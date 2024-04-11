@@ -14,6 +14,7 @@ A Bukkit Plugin for Minecraft server to broadcast announcement on time. If you l
 + More status details<br><br>
     ![status](/pics/status.png)<br><br>
 + Hot reload support
++ Broadcast once at any time without affecting normal timing
 + You can use `&` to change font style and `\n` to start a new line in Minecraft command line! 
 + Switch your language through a command without reloading or restarting your server
 + And so on...
